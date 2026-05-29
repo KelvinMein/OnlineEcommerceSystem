@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dynamic Menu</title>
+
+    <style>
+        #menu {
+            display: none;
+            background: lightgray;
+            padding: 10px;
+            width: 150px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2>Dynamic Menu Example</h2>
+
+<button onclick="toggleMenu()">Toggle Menu</button>
+
+<div id="menu">
+    <p>Home</p>
+    <p>Products</p>
+    <p>Cart</p>
+    <p>Logout</p>
+</div>
+
+<script>
+function toggleMenu() {
+    let menu = document.getElementById("menu");
+
+    if (menu.style.display === "none") {
+        menu.style.display = "block";
+    } else {
+        menu.style.display = "none";
+    }
+}
+</script>
+
+</body>
+</html>
