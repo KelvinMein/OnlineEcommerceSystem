@@ -1,32 +1,47 @@
-Week 1: Local Environment Setup
-Installed and configured XAMPP
-Tested Apache and MySQL services
-Verified localhost setup
-Created initial “Hello World” PHP test
-Tested database connection
-Week 2: Wireframes and GUI Design
-Designed system wireframes (hand-drawn and digital)
-Created dashboard layout
-Developed mobile UI mockups
-Defined color themes and user interface structure
-Built GUI prototype using Canva
-Week 3: JavaScript and PHP Basics
-Implemented form validation using JavaScript
-Created password strength checker
-Practiced PHP syntax and backend logic
-Connected frontend forms to backend scripts
-Handled dynamic user input
-Week 4: Server-Side Development
-Hosted project using XAMPP
-Ran system on localhost
-Tested login, registration, and homepage
-Debugged file paths and server configuration
-Week 5: Database Development
-Created database and tables using MySQL
-Implemented SQL queries (INSERT, SELECT)
-Connected PHP with MySQL database
-Tested data storage and retrieval
 
+# Web Development Project Progress
+
+This project documents the development of a web-based system using PHP, MySQL, JavaScript, and XAMPP.
+
+## Week 1: Local Environment Setup
+- Installed and configured XAMPP
+- Tested Apache and MySQL services
+- Set up localhost environment
+- Created a basic PHP “Hello World” test
+- Tested database connection
+
+## Week 2: Wireframes and GUI Design
+- Designed system wireframes (hand-drawn and digital)
+- Created dashboard layout
+- Developed mobile UI mockups
+- Defined color themes and UI structure
+- Built GUI prototype using Canva
+
+## Week 3: JavaScript and PHP Basics
+- Implemented form validation using JavaScript
+- Created a password strength checker
+- Practiced PHP backend logic
+- Connected frontend forms to backend scripts
+- Handled dynamic user input
+
+## Week 4: Server-Side Development
+- Hosted project using XAMPP
+- Ran system on localhost
+- Tested login, registration, and homepage
+- Debugged file paths and server configuration
+
+## Week 5: Database Development
+- Created MySQL database and tables
+- Implemented SQL queries (INSERT, SELECT)
+- Connected PHP with MySQL
+- Tested data storage and retrieval
+
+## Tools Used
+- PHP
+- MySQL
+- JavaScript
+- XAMPP
+- Canva
 
 # Week 6 PHP & MySQL CRUD Projects
 
