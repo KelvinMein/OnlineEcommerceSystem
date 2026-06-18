@@ -1,8 +1,37 @@
+Week 1: Local Environment Setup
+Installed and configured XAMPP
+Tested Apache and MySQL services
+Verified localhost setup
+Created initial “Hello World” PHP test
+Tested database connection
+Week 2: Wireframes and GUI Design
+Designed system wireframes (hand-drawn and digital)
+Created dashboard layout
+Developed mobile UI mockups
+Defined color themes and user interface structure
+Built GUI prototype using Canva
+Week 3: JavaScript and PHP Basics
+Implemented form validation using JavaScript
+Created password strength checker
+Practiced PHP syntax and backend logic
+Connected frontend forms to backend scripts
+Handled dynamic user input
+Week 4: Server-Side Development
+Hosted project using XAMPP
+Ran system on localhost
+Tested login, registration, and homepage
+Debugged file paths and server configuration
+Week 5: Database Development
+Created database and tables using MySQL
+Implemented SQL queries (INSERT, SELECT)
+Connected PHP with MySQL database
+Tested data storage and retrieval
+
+
 # Week 6 PHP & MySQL CRUD Projects
 
 This repository contains Week 6 practical assignments developed using PHP, MySQL, HTML, CSS, and XAMPP. The projects demonstrate CRUD operations, user authentication, and basic web application development.
 
----
 
 ## Projects Included
 
@@ -16,7 +45,7 @@ A system for managing student records.
 - Delete students
 - MySQL database integration
 
----
+
 
 ### 2. Library Book Management System
 A system for managing library books.
@@ -28,7 +57,6 @@ A system for managing library books.
 - Delete books
 - Full CRUD operations
 
----
 
 ### 3. Employee Records Management System
 A system for managing employee records.
@@ -43,7 +71,7 @@ A system for managing employee records.
 - Form validation
 - Basic responsive design
 
----
+
 
 ## Technologies Used
 - HTML5
@@ -53,7 +81,6 @@ A system for managing employee records.
 - XAMPP Server
 - phpMyAdmin
 
----
 
 ## Screenshots
 Screenshots are included in the `/screenshots` folder showing:
@@ -61,12 +88,12 @@ Screenshots are included in the `/screenshots` folder showing:
 - CRUD operations
 - Database records in phpMyAdmin
 
----
+
 
 ## Database
 Each project includes SQL export files for database setup. Import the SQL files into phpMyAdmin before running the applications.
 
----
+
 
 ## How to Run the Projects
 1. Install XAMPP
